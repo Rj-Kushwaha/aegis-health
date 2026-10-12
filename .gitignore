@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+data/
+*.db
+.DS_Store
+.env
+.env.*
+!.env.example
+app_old.py
+medical_app.db
+data/medical_app.db
+*.sqlite
+*.sqlite3
+.pytest_cache/
+.streamlit/secrets.toml
